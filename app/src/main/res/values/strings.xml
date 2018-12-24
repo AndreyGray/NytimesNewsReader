@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NYTimesNewsReader</string>
+    <string name="tab_most_emailed">Most emailed</string>
+    <string name="tab_most_shared">Most shared</string>
+    <string name="tab_most_viewed">Most viewed</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="new_york_times_news">TheNewYorkTimesNews</string>
+    <string name="no_favorites">!!!You have no one favorites news!!!</string>
+    <string name="Favorite">Tap to add in favorites</string>
+    <string name="selector">\u0020\u0020||\u0020\u0020</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet">!!!No internet connection, only favorites news!!!</string>
+
+
+</resources>
